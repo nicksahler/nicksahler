@@ -10,8 +10,6 @@
                                                                                                   
 ```
 
-<img style="text-align: center" src="https://upload.wikimedia.org/wikipedia/commons/1/17/UtuadoFlag.svg" alt="Utuado"/>
-
 <!--
 **nicksahler/nicksahler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +24,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
+<img style="text-align: center" src="https://upload.wikimedia.org/wikipedia/commons/1/17/UtuadoFlag.svg" width="128" alt="Utuado"/>
